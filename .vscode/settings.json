@@ -1,0 +1,4 @@
+{
+	"editor.detectIndentation": false,
+	"rust-analyzer.showUnlinkedFileNotification": false
+}

@@ -1,0 +1,3 @@
+# Wasm target for local testing
+[target.wasm32-unknown-unknown]
+runner = "wasm-server-runner"
