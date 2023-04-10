@@ -1,6 +1,6 @@
 # A High Stakes Affair
 
-WARNING: This game contains elements that may trigger photosensitivity, nausea, or other adverse reactions in some individuals.
+## WARNING: This game contains elements that may trigger photosensitivity, nausea, or other adverse reactions in some individuals.
 The audio/visual quality will drastically vary throughout the game.
 This game contains references to gambling and drug use/addiction.
 
