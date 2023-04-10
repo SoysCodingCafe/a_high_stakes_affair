@@ -3,6 +3,18 @@
 version = 3
 
 [[package]]
+name = "a_high_stakes_affair"
+version = "0.1.0"
+dependencies = [
+ "bevy",
+ "bevy-inspector-egui",
+ "bevy_kira_audio",
+ "bevy_pkv",
+ "rand",
+ "serde",
+]
+
+[[package]]
 name = "ab_glyph"
 version = "0.2.20"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -635,18 +647,6 @@ dependencies = [
  "bevy_utils",
  "bevy_window",
  "bevy_winit",
-]
-
-[[package]]
-name = "bevy_jam_3"
-version = "0.1.0"
-dependencies = [
- "bevy",
- "bevy-inspector-egui",
- "bevy_kira_audio",
- "bevy_pkv",
- "rand",
- "serde",
 ]
 
 [[package]]
