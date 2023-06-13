@@ -8,6 +8,8 @@ A game about an impressionable teen who regrets their decisions and in the fire 
 
 A game about addiction, gambling, and love, written in Rust with the Bevy Game Engine.
 
+The game can be played at: https://soyscodingcafe.itch.io/a-high-stakes-affair
+
 Assets may take a short while to load on the web version so please be patient!
 
 IF YOU HAVE 3RD PARTY COOKIES DISABLED, GAME LIKELY WONT LOAD PAST THE DISCLAIMER
@@ -28,7 +30,7 @@ Some users have reported issues with GPU drivers needing updated or having to al
 
 Credits:
 
-InfiniteFall - Lead Game Designer, Gameplay Programmer, Master of Spaghetti, Carrier of Projects
+SoysCodingCafe - Lead Game Designer, Gameplay Programmer, Master of Spaghetti, Carrier of Projects
 IQuick143 - Code Quality Advisor & Refactor Monkey, Bevy Systems Engineer, VFX Engineering Mad Genius (Test Results Pending), Manipulator of Git Timelines, The Shader of Shades, Junior Senior Programmer Tin Jazz Rockstar Developer, Person Writing The Credits.
 Cereal - Music Composer, Ghostwriter, Intro and Outro Director, Choreographer and Producer and Sound Designer
 hannahdragneel - pixel art sprite designer
